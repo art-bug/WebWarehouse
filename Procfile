@@ -1,1 +1,1 @@
-web: gunicorn WarehouseWebAPI.wsgi
+web: gunicorn app.WarehouseWebAPI.WarehouseWebAPI.wsgi
